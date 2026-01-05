@@ -23,6 +23,8 @@ It serves as a growing reference for enumeration, analysis, and exploitation wor
 - `nmap.md`
   Focused Nmap reference for CTF usage.
 
+- `password_cracking.md`
+  Password Cracking reference for CTF usage.
 ---
 
 ## Roadmap
