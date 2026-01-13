@@ -25,6 +25,10 @@ It serves as a growing reference for enumeration, analysis, and exploitation wor
 
 - `password_cracking.md`
   Password Cracking reference for CTF usage.
+
+- `osint.md`
+  OSINT reference for reconnaissance, investigation, and CTF usage.
+
 ---
 
 ## Roadmap
