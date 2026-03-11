@@ -16,8 +16,20 @@ It serves as a growing reference for enumeration, analysis, and exploitation wor
 ## Current Contents
 
 ### Scripts
+- `ctf_recon.sh`  
+  Automated reconnaissance workflow designed for CTF environments. Performs host discovery, full TCP port scanning (`-p-`), targeted service enumeration, web fingerprinting, and generates dynamic next-step suggestions to guide further exploitation.
+
 - `extract_metadata_from_stream.py`
   Outputs clean metadata to CSV for analysis.
+
+---
+
+### Documentation / Guides
+
+- `ctf_recon_README.md`  
+  Complete usage guide for the CTF Recon script. Covers installation, dependencies, scan profiles, command usage, output structure, and recommended CTF workflow.
+
+---
 
 ### Notes
 - `nmap.md`
